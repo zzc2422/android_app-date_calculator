@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">日期计算器</string>
+    <string name="inputDate1Info">请输入日期1。例如：19960823。\n必须在1583年1月1日至3199年12月31日之间！</string>
+    <string name="inputDate2Info">请输入日期2。例如：20141219。\n必须在日期1之后，且在1583年1月1日至3199年12月31日之间！</string>
+    <string name="inputGapDaysInfo">请输入间隔天数。\n必须是非负整数，且使结果在1583年1月1日至3199年12月31日之间！</string>
+    <string name="calculateGapDaysInfo">计算日期1与日期2之间的天数</string>
+    <string name="calculateDateDaysAfterInfo">计算日期1之后若干天的日期</string>
+    <string name="calculateDateDaysABeforeInfo">计算日期2之前若干天的日期</string>
+    <string name="date1Default">19960823</string>
+    <string name="date2Default">20141219</string>
+    <string name="daysAmountDefault">6692</string>
+</resources>
